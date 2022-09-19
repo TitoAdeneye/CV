@@ -1,7 +1,5 @@
 body{
     margin: 4rem;
-    text-align: justify;
-    background-colour: #FFCCB3;
 }
 
 h1{
@@ -17,4 +15,8 @@ h3{
 }
 p,ul,table{
     font-size: larger;
+}
+
+.name{
+    text-align: center;
 }
